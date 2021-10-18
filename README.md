@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeatrizOSantos
-- 👀 I’m interested in being a Full Stack Developer in the future but first I want to get experience with Front-End and UX/UI
+- 👀 I’m a Computer Science student interested in being a Full Stack Developer in the future but first I want to get experience with Front-End and UX/UI
 - 🌱 I’m currently learning about Front-end in mobile apps and web applications
 - 📫 How to reach me: 
         e-mail: beatrizodsk@gmail.com

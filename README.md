@@ -18,7 +18,7 @@
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Bia-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/uOZBO0Qye5kF6ZHA0N/giphy.gif">
+  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ebj2uqrGbsLQ3zZFI0/giphy.gif">
 </div>
   
   ##

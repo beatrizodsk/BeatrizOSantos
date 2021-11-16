@@ -1,8 +1,11 @@
 ## 👋 Oie, eu sou a Beatriz Oliveira
-- 👀 I’m a Computer Science student interested in being a Full Stack Developer in the future but first I want to get experience with Front-End and UX/UI
-- 🌱 I’m currently learning about Front-end
-- 📫 How to reach me: 
+- 👩‍💻 Hoje trabalho com Front-End
+- 🌱 Estudando JavaScript e React
+- 📫 Contato: 
         e-mail: beatrizodsk@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BeatrizOSantos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 BeatrizOSantos/BeatrizOSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

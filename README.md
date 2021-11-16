@@ -1,13 +1,12 @@
-## 👋 Oie, eu sou a Beatriz Oliveira
-- 👩‍💻 Hoje trabalho com Front-End
-- 🌱 Estudando JavaScript e React
-- 📫 Contato: 
-        e-mail: beatrizodsk@gmail.com
+## 👋 Hey, I'm Beatriz Santos
+- 🔭 I’m currently working with Front-End
+- 👩🏼‍💻 Studying -> React and JavaScript
+- :octocat: Pronouns -> She/Her
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizOSantos&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizOSantos&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizOSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizOSantos&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 

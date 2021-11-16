@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Beatriz Santos
-- 🔭 I’m currently working with Front-End
+- 🔭 Front-End Web Developer (but I want to be a Full Stack Developer with UI/UX experience in the future)
 - 📖 Studying -> React and JavaScript
 - :octocat: Pronouns -> She/Her
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeatrizOSantos
+## 👋 Oie, eu sou a Beatriz Oliveira
 - 👀 I’m a Computer Science student interested in being a Full Stack Developer in the future but first I want to get experience with Front-End and UX/UI
 - 🌱 I’m currently learning about Front-end
 - 📫 How to reach me: 

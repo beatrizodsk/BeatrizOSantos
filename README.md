@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Beatriz Santos
 - 🔭 I’m currently working with Front-End
-- 👩🏼‍💻 Studying -> React and JavaScript
+- 📖 Studying -> React and JavaScript
 - :octocat: Pronouns -> She/Her
 
 <div align="center">

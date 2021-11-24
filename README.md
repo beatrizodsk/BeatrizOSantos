@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Beatriz Santos
 - 🔭 Front-End Web Developer (but I want to be a Full Stack Developer with UI/UX experience in the future)
-- 📖 Studying -> React and JavaScript
+- 📖 Studying -> React and TypeScript
 - :octocat: Pronouns -> She/Her
 
 <div align="center">

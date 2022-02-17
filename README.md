@@ -18,7 +18,6 @@
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Bia-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Bia-Git" height="30" width="40" src="https://www.flaticon.com/br/icone-premium/git_4494740?term=git&page=1&position=4&page=1&position=4&related_id=4494740&origin=searchhttps://www.flaticon.com/br/icone-premium/git_4494740?term=git&page=1&position=4&page=1&position=4&related_id=4494740&origin=search">
   <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ebj2uqrGbsLQ3zZFI0/giphy.gif">
 </div>
   

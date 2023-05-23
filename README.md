@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Beatriz Santos.
+## 👋 Hey, I'm Beatriz Santos
 - 🔭 Software Developer and Computer Science Student
 - 📖 Studying -> Django
 - :octocat: Pronouns -> She/Her
